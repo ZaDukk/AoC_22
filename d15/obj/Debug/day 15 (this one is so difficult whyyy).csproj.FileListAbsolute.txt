@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\bin\Debug\day 15 (this one is so difficult whyyy).exe.config
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\bin\Debug\day 15 (this one is so difficult whyyy).exe
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\bin\Debug\day 15 (this one is so difficult whyyy).pdb
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\obj\Debug\day 15 (this one is so difficult whyyy).csproj.AssemblyReference.cache
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\obj\Debug\day 15 (this one is so difficult whyyy).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\obj\Debug\day 15 (this one is so difficult whyyy).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\obj\Debug\day 15 (this one is so difficult whyyy).exe
+C:\Users\user\source\repos\aoc_22\day 15 (this one is so difficult whyyy)\obj\Debug\day 15 (this one is so difficult whyyy).pdb
