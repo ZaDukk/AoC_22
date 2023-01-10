@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\aoc_22\day 10\bin\Debug\day 10.exe.config
+C:\Users\user\source\repos\aoc_22\day 10\bin\Debug\day 10.exe
+C:\Users\user\source\repos\aoc_22\day 10\bin\Debug\day 10.pdb
+C:\Users\user\source\repos\aoc_22\day 10\obj\Debug\day 10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\aoc_22\day 10\obj\Debug\day 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\aoc_22\day 10\obj\Debug\day 10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\aoc_22\day 10\obj\Debug\day 10.exe
+C:\Users\user\source\repos\aoc_22\day 10\obj\Debug\day 10.pdb
